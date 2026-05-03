@@ -17,5 +17,5 @@ Luna is a full-stack e-commerce web application built using the MERN stack.
 - Admin & seller dashboard
 
 ## 🔗 Repositories
-- Frontend: https://github.com/NejumaBenziya/ecommerce-client-new
-- Backend : https://github.com/NejumaBenziya/ecommerce-application-server
+- Frontend: https://github.com/NejumaBenziya/luna-frontend
+- Backend : https://github.com/NejumaBenziya/luna-backend
